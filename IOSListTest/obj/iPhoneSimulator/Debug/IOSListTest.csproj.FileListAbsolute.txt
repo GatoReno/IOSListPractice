@@ -1,0 +1,16 @@
+/Users/dmn/Projects/IOSListTest/IOSListTest/bin/iPhoneSimulator/Debug/IOSListTest.exe
+/Users/dmn/Projects/IOSListTest/IOSListTest/bin/iPhoneSimulator/Debug/IOSListTest.pdb
+/Users/dmn/Projects/IOSListTest/IOSListTest/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/dmn/Projects/IOSListTest/IOSListTest/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/dmn/Projects/IOSListTest/IOSListTest/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/dmn/Projects/IOSListTest/IOSListTest/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.0/actool/_PartialAppManifest.items
+/Users/dmn/Projects/IOSListTest/IOSListTest/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.0/actool/_BundleResourceWithLogicalName.items
+/Users/dmn/Projects/IOSListTest/IOSListTest/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.0/coremlc/_PartialAppManifest.items
+/Users/dmn/Projects/IOSListTest/IOSListTest/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.0/coremlc/_BundleResourceWithLogicalName.items
+/Users/dmn/Projects/IOSListTest/IOSListTest/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.0/optimized/
+/Users/dmn/Projects/IOSListTest/IOSListTest/obj/iPhoneSimulator/Debug/IOSListTest.csprojAssemblyReference.cache
+/Users/dmn/Projects/IOSListTest/IOSListTest/obj/iPhoneSimulator/Debug/IOSListTest.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/IOSListTest/IOSListTest/obj/iPhoneSimulator/Debug/IOSListTest.csproj.CopyComplete
+/Users/dmn/Projects/IOSListTest/IOSListTest/obj/iPhoneSimulator/Debug/IOSListTest.exe
+/Users/dmn/Projects/IOSListTest/IOSListTest/obj/iPhoneSimulator/Debug/IOSListTest.pdb
+/Users/dmn/Projects/IOSListTest/IOSListTest/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll

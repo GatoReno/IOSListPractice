@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{59260257-5E34-4340-8B75-8D46A3CC1D28}|Default">
+  <MonoDevelop.Ide.ItemProperties.IOSListTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.807BC798-6E9C-4182-80EE-33E2B33DA07F" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IOSListTest/MyTableViewSource.cs">
+    <Files>
+      <File FileName="IOSListTest/ViewController.cs" Line="49" Column="44" />
+      <File FileName="IOSListTest/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="IOSListTest/Main.cs" />
+      <File FileName="IOSListTest/Models/PokemonCallApiModel.cs" Line="14" Column="28" />
+      <File FileName="IOSListTest/Models/PokemonModel.cs" Line="8" Column="41" />
+      <File FileName="IOSListTest/MyTableViewSource.cs" Line="12" Column="33" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IOSListTest" expanded="True">
+            <Node name="IOSListTest" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="MyTableViewSource.cs" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
